@@ -1,0 +1,14 @@
+{
+  "name": "r2d2",
+  "version": "1.0.0",
+  "description": "Code style employed PSR2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
